@@ -16,3 +16,4 @@
 3. Assets/Scenes/InGame 씬 열기
 4. Play 버튼 클릭해 씬 실행
 5. 카메라에 양손 비추면 프로그램이 인식하여 캐릭터가 움직임
+![GIFMaker_me](https://github.com/wjoh0315/OpenCV-Unity-Game-Baekseok/assets/65387631/58475b51-42ba-4679-b63b-9a35c37a38cc)
