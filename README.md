@@ -19,4 +19,4 @@
   
    (PC 캠 없는 경우 DroidCam으로 스마트폰 캠 사용하기 https://writtenchoi.tistory.com/129)
 
-![GIFMaker_me](https://github.com/wjoh0315/OpenCV-Unity-Game-Baekseok/assets/65387631/58475b51-42ba-4679-b63b-9a35c37a38cc)
+![GIFMaker_me](https://github.com/wjoh0315/OpenCV-Unity-Game-Baekseok/assets/65387631/6823d7d3-b632-467f-97dd-ad62f224f670)
