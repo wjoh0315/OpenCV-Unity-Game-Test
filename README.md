@@ -13,3 +13,5 @@
 # 실행 순서
 1. Hand Tracker.exe 실행 (몇 초후 카메라 화면이 열림)
 2. 유니티 프로젝트 실행
+3. Assets/Scenes/InGame 씬 열기
+4. Play 버튼 클릭해 실행
